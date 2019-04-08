@@ -1,4 +1,4 @@
-# AWS-Clioect-VPN-Endpoints
+# AWS-Cliect-VPN-Endpoints
 # How to connect AWS VPC though the Tunnelblick
 # (1) Download Tunnelblick 3.7.8 as below at https://tunnelblick.net/downloads.html
 # (2) Install file DevOps-vpn-v2.ovpn on Tunnelblick in your local machine
