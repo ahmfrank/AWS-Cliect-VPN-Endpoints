@@ -6,7 +6,7 @@
 # (4) Done. Check your VPN connection
 # -------------------------------------------------------------
 # How To split your local network IPv4 traffic with VPN Tunnel, 
-# please add below configure on the DevOps-vpn-v2.ovpn file
+# please add below a modifcation in the DevOps-vpn-v2.ovpn file
 # route-nopull
 # route 172.31.0.0 255.255.0.0
 # Note: 172.31.0.0 255.255.0.0 is your AWS VPC network
